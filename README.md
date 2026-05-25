@@ -13,8 +13,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=KoushikMuthakana&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" />
-
 </div>
 
 ---
