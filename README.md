@@ -197,8 +197,10 @@ while system.is_scaling():
 </div>
 
 ---
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KoushikMuthakana/KoushikMuthakana/output/github-contribution-grid-snake-blue.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/KoushikMuthakana/KoushikMuthakana/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
+
