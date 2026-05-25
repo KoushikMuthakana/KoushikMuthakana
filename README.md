@@ -157,22 +157,25 @@ while system.is_scaling():
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KoushikMuthakana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" />
+<img height="170em" src="https://streak-stats.demolab.com?user=KoushikMuthakana&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KoushikMuthakana&theme=tokyonight&hide_border=true&background=00000000" />
 
-<br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikMuthakana&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KoushikMuthakana&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
 
+
+
+
+---
+<!--
 ## 🏆 Trophies
 
 <div align="center">
@@ -182,12 +185,13 @@ while system.is_scaling():
 </div>
 
 ---
+-->
 
 ## 🤝 Connect
 
 <div align="center">
 
-<a href="mailto:krmuthakana@gmail.com">
+<a href="mailto:kmuthakana@gmail.com">
   <img src="https://img.shields.io/badge/email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -195,14 +199,14 @@ while system.is_scaling():
   <img src="https://img.shields.io/badge/github-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/koushikmuthakana/">
   <img src="https://img.shields.io/badge/linkedin-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
 ---
-
+## 🐍 Contribution Activity
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/KoushikMuthakana/KoushikMuthakana/output/github-contribution-grid-snake-dark.svg" width="100%" />
