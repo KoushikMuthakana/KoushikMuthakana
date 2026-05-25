@@ -1,3 +1,4 @@
+<div align="center"> # </div>
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,40:0f172a,70:1d4ed8,100:38bdf8&text=Koushik%20Muthakana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Engineer%20%7C%20Hybrid%20Batch%20%2B%20Realtime%20Architect&descAlignY=58&descSize=17" />
