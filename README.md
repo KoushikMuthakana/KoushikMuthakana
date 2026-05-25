@@ -192,14 +192,18 @@ while system.is_scaling():
 <div align="center">
 
 <a href="mailto:kmuthakana@gmail.com">
-  <img src="https://img.shields.io/badge/email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="48" />
 </a>
+&nbsp; &nbsp; &nbsp; 
 
 <a href="https://www.linkedin.com/in/koushikmuthakana/">
-  <img src="https://img.shields.io/badge/linkedin-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
 </a>
 
+
 </div>
+
+
 
 ---
 ## 🐍 Contribution Activity
