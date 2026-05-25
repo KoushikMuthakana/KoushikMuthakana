@@ -195,10 +195,6 @@ while system.is_scaling():
   <img src="https://img.shields.io/badge/email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/KoushikMuthakana">
-  <img src="https://img.shields.io/badge/github-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com/in/koushikmuthakana/">
   <img src="https://img.shields.io/badge/linkedin-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
