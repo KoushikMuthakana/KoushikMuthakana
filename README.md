@@ -6,7 +6,6 @@
 
 
 
-
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&duration=3200&color=2563EB&center=true&vCenter=true&width=950&lines=Building+systems+that+continue+to+behave+well+under+scale;Turning+distributed+systems+into+trusted+data+platforms;Analytics+%2B+ML+%2B+Realtime+Data+Systems" />
