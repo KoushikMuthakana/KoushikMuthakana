@@ -181,7 +181,6 @@ while system.is_scaling():
 <img src="https://github-profile-trophy.vercel.app/?username=KoushikMuthakana&theme=algolia&no-frame=true&margin-w=15&row=1" />
 
 </div>
-
 ---
 -->
 
@@ -204,10 +203,11 @@ while system.is_scaling():
 
 
 ---
+<!--
 ## 🐍 Contribution Activity
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/KoushikMuthakana/KoushikMuthakana/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
-
+-->
